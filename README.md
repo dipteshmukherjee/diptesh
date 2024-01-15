@@ -14,18 +14,6 @@ Passionate Data Scientist with over 3 years of experience in programming and bui
 
 ## Languages and Tools
 
-![Languages](https://github-readme-stats.vercel.app/api/lang/?username=diptesh1997&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diptesh1997&layout=compact)
 
-
-
-
-
-## Activities
-
-- Coordinator of Iceberg, Robotics Club of IEM (2016-2018)
-
-## Certifications
-
-- Python for Data Science & Machine Learning Bootcamp, Udemy - 2023
-- Data Science & Machine Learning Bootcamp with R, Udemy - 2023
 
