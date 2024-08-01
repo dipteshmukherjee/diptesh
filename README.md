@@ -10,10 +10,10 @@ Passionate Data Scientist with over 3 years of experience in programming and bui
 
 ## GitHub Stats
 
-![Diptesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diptesh1997&show_icons=true&count_private=true&hide=contribs,issues)
+![Diptesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipteshmukherjee&show_icons=true&count_private=true&hide=contribs,issues)
 
 ## Languages and Tools
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diptesh1997&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipteshmukherjee&layout=compact)
 
 
