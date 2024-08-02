@@ -7,7 +7,7 @@ Passionate Data Scientist with over 4 years of experience in programming and bui
 - 📧 Email: diptesh62@gmail.com
 - 🌐 LinkedIn: [diptesh-mukherjee](https://linkedin.com/in/diptesh-mukherjee-a1a75813b)
 - 🐦 GitHub: [diptesh](https://github.com/dipteshmukherjee)
-
+- 📂 Portfolio Link: [diptesh-portfolio](https://dipteshmukherjee.github.io/)
 ## GitHub Stats
 
 ![Diptesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipteshmukherjee&show_icons=true&count_private=true&hide=contribs,issues)
